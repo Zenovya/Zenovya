@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Lovo</h1>
-<h2 align="center"> Portfolio: http://bit.ly/LuisLovo</h2>
+
 ![github-user-contribution](https://user-images.githubusercontent.com/85099589/219511971-c42d4db8-7621-4833-9a86-3974d2d0ea12.svg)
 
 # 💻 Tech Stack:
@@ -9,6 +9,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Zenovya&icon=8&color=0)](https://visitcount.itsvg.in)
 
+<h2 align="center"> Portfolio: http://bit.ly/LuisLovo</h2>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Zenovya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
