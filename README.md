@@ -7,9 +7,10 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
+<h2 align="center"> Portfolio: http://bit.ly/LuisLovo</h2>
+
 [![](https://visitcount.itsvg.in/api?id=Zenovya&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<h2 align="center"> Portfolio: http://bit.ly/LuisLovo</h2>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Zenovya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
